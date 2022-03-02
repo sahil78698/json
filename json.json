@@ -1,1 +1,59 @@
-
+{
+  "profiles":[
+    {
+      "name":"Sahil",
+      "photo":"https://raw.githubusercontent.com/sahil78698/freefire/main/back.jpg",
+      "projects":"20"
+    },
+    {"name":"Sajjat",
+     "photo":"https://raw.githubusercontent.com/sahil78698/freefire/main/email.png",
+     "projects":"6"
+    }
+          ],
+"projects":[
+    {
+      "Sahil":[
+    {
+      "photo":"https://raw.githubusercontent.com/sahil78698/freefire/main/back.jpg",
+      "title":"BAD MOD"
+    },
+    {
+     "photo":"https://raw.githubusercontent.com/sahil78698/freefire/main/lol.jpeg",
+     "title":"BAD FIRE FOR FREE"
+    },
+    {
+     "photo":"https://raw.githubusercontent.com/sahil78698/freefire/main/co.jpeg",
+     "title":"FREE FIRE BAD"
+    },
+    {
+     "photo":"https://raw.githubusercontent.com/sahil78698/freefire/main/code.jpeg",
+     "title":"BAD MODDER V1.7"
+    },
+    {
+     "photo":"https://raw.githubusercontent.com/sahil78698/freefire/main/email.png",
+     "title":"FREE FIRE MOD MENU"
+    }
+          ],
+ "Sajjat":[
+    {
+      "photo":"https://raw.githubusercontent.com/sahil78698/freefire/main/back.jpg",
+      "title":"llllllggfcc"
+    },
+    {
+     "photo":"https://raw.githubusercontent.com/sahil78698/freefire/main/code.jpeg",
+     "title":"Hvvbii"
+    }
+          ]
+    }
+          ],
+  "app-info":[
+    {
+      "version":"1.0",
+      "url":"https://youtu.be/qOlkLTOa_Ig",
+      "yt_url":"https://youtu.be/qOlkLTOa_Ig",
+      "tel_url":"https://t.me/BAD_MODDER",
+      "verification":"true"
+      
+    }
+             ]
+}
