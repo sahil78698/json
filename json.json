@@ -99,9 +99,13 @@
     {
       "version":"1.0",
       "update-url":"https://github.com/sahil78698/json/raw/main/Bad%20Source_1.0.apk",
-      "url":"https://youtu.be/qOlkLTOa_Ig",
-      "yt_url":"https://youtu.be/qOlkLTOa_Ig",
-      "tel_url":"https://t.me/BAD_MODDER",
+      "youtube":"https://youtu.be/qOlkLTOa_Ig",
+      "telegram":"https://t.me/BAD_MODDER",
+      "support":"https://t.me/BAD_MODDER",
+      "aide32":"https://t.me/BAD_MODDER",
+      "aide64":"https://t.me/BAD_MODDER",
+      "ndk32":"https://t.me/BAD_MODDER",
+      "ndk64":"https://t.me/BAD_MODDER",
       "verification":"true"
       
     }
