@@ -106,6 +106,9 @@
       "aide64":"https://t.me/BAD_MODDER",
       "ndk32":"https://t.me/BAD_MODDER",
       "ndk64":"https://t.me/BAD_MODDER",
+      "game_id":"4639465",
+      "rewarded_id":"Rewarded_Android",
+      "test":"true",
       "verification":"true"
       
     }
