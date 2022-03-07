@@ -2,7 +2,7 @@
   "profiles":[
     {
       "name":"BAD MODDER",
-      "projects":"10",
+      "projects":"11",
       "photo":"https://github.com/sahil78698/json/raw/main/lgo.png"
     },
     {"name":"KTM MODDER",
@@ -16,6 +16,17 @@
    {
      "photo":"https://raw.githubusercontent.com/sahil78698/freefire/main/back.jpg",
      "title":"FREE FIRE BAD VIP MOD NEW",
+     "developer":"BAD MODDER",
+      "upload":"10-01-2001",
+      "filetype":"SOURCE CODE",
+      "filesize":"5.00 MB",
+      "description":"Hii i am bad modder",
+      "download":"Available on 10-01-2001",
+      "bits":"32 Bits"
+    },
+   {
+     "photo":"https://raw.githubusercontent.com/sahil78698/freefire/main/back.jpg",
+     "title":"FREE FIRE BAD VIP MOD NEW PRO",
      "developer":"BAD MODDER",
       "upload":"10-01-2001",
       "filetype":"SOURCE CODE",
