@@ -118,6 +118,17 @@
           ]
     }
           ],
+   "banners":[
+      { 
+       "url":"https://github.com/sahil78698/json/raw/main/IMG-20220303-WA0002.jpg"
+      },
+{ 
+       "url":"https://raw.githubusercontent.com/sahil78698/freefire/main/back.jpg"
+      }, 
+{ 
+       "url":"https://raw.githubusercontent.com/sahil78698/freefire/main/code.jpeg"
+      }
+],
   "app-info":[
     {
       "version":"1.0",
