@@ -1,342 +1,243 @@
 {
+
   "FreeFire": [
+
     {
+
       "profiles": [
+
         {
-          "name": "BAD MODDER",
+
+          "name": "AKTHAR GAMING",
+
+          "projects": "1",
+
+          "photo": "https://github.com/sahil78698/json/raw/main/profiles/iconx.png"
+
+        },
+
+        {
+
+          "name": "LEGACY MODS",
+
+          "projects": "1",
+
+          "photo": "https://github.com/sahil78698/json/raw/main/profiles/icovvn.png"
+
+        },
+
+        {
+
+          "name": "GRINGO XP",
+
+          "projects": "1",
+
+          "photo": "https://github.com/sahil78698/json/raw/main/profiles/icon.png"
+
+        },
+
+        {
+
+          "name": "B R M O D S",
+
           "projects": "2",
-          "photo": "https://github.com/sahil78698/json/raw/main/lgo.png"
-        },
-        {
-          "name": "GAME MOD PRO",
-          "projects": "6",
-          "photo": "https://github.com/sahil78698/json/raw/main/IMG-20220313-WA0006.jpg"
-        },
-       {
-          "name": "BAD TEAM",
-          "projects": "4",
-          "photo": "https://github.com/sahil78698/json/raw/main/IMG-20220313-WA0007.jpg"
+
+          "photo": "https://github.com/sahil78698/json/raw/main/profiles/BADSRC.png"
+
         }
+
       ],
+
       "projects": [
+
         {
-          "BAD MODDER": [
+
+          "AKTHAR GAMING": [
+
             {
-              "photo": "https://github.com/sahil78698/json/raw/main/IMG-20220313-WA0009.jpg",
-              "title": "BAD MODDER V1 LAYOUT",
-              "developer": "BAD MODDER",
-              "upload": "13-03-2022",
+
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/UNITED.png",
+
+              "title": "UNITED MOD",
+
+              "developer": "AKTHAR GAMING",
+
+              "upload": "21-03-2022",
+
               "filetype": "SOURCE CODE",
-              "filesize": "5.03 MB",
+
+              "filesize": "6.36 MB",
+
               "description": "",
-              "download": "https://github.com/sahil78698/json/raw/main/AndroidShell.zip",
-              "bits": "32 Bits"
-            },
+
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/United%20Mods%20%5BSRC%5D%20By%20Bad%20Modder.zip",
+
+              "bits": "32 Bit"
+
+            }
+
+          ],
+
+          "LEGACY MODS": [
+
             {
-              "photo": "https://github.com/sahil78698/json/raw/main/IMG-20220313-WA0010.jpg",
-              "title": "BAD MODDER V2 LAYOUT",
-              "developer": "BAD MODDER",
-              "upload": "13-03-2022",
+
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/LEGACY1.png",
+
+              "title": "LEGACY LAYOUT",
+
+              "developer": "LEGACY MODS",
+
+              "upload": "21-03-2022",
+
               "filetype": "SOURCE CODE",
-              "filesize": "5.10 MB",
+
+              "filesize": "8.22 MB",
+
               "description": "",
-              "download": "https://github.com/sahil78698/json/raw/main/AndroidShell.zip",
-              "bits": "32 Bits"
+
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/LEGACY%20TEAM%20%5BBAD%20SRC_1.60%5D.zip",
+
+              "bits": "32 Bit"
+
             }
+
           ],
-          "GAME MOD PRO": [
+
+          "GRINGO XP": [
+
             {
-              "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTt9JV3r1hI4yUjGMhI0rjJNhX16XezeBwSw&usqp=CAU",
-              "title": "llllllggfcc",
-              "developer": "KTM MODDER",
-              "upload": "10-01-2001",
+
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/GRINGO.png",
+
+              "title": "GRINGO XP LAYOUT",
+
+              "developer": "GRINGO XP",
+
+              "upload": "21-03-2022",
+
               "filetype": "SOURCE CODE",
-              "filesize": "5.00 MB",
-              "description": "Hii i am KTM modder",
-              "download": "https://github.com/sahil78698/json/raw/main/Bad%20Source_1.0.apk",
-              "bits": "32 Bits"
-            },
-            {
-              "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJPDRl5yd7tqmD5ovsi2el7K0EY-rG4wmFiQ&usqp=CAU",
-              "title": "Hvvbii",
-              "developer": "KTM MODDER",
-              "upload": "10-01-2001",
-              "filetype": "SOURCE CODE",
-              "filesize": "5.00 MB",
-              "description": "Hii i am KTM modder",
-              "download": "",
-              "bits": "32 Bits"
+
+              "filesize": "7.24 MB",
+
+              "description": "",
+
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/GRINGO-XP%20%5BSRC_1%5D%20BY%20BAD%20MODDER.zip",
+
+              "bits": "32 Bit"
+
             }
-          ]
-        }
-      ],
-      "banners": [
-        {
-          "url": "https://github.com/sahil78698/json/raw/main/IMG-20220313-WA0011.jpg"
-        },
-        {
-          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjYLFxGvaEayQHkSG2AptiAZ6kZZVLh4Ok8g&usqp=CAU",
-           "for":"GAME MOD PRO"
-        },
-        {
-          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zT5iQq3tUB3OZUjWWOj6YinGUVFqpft0lQ&usqp=CAU"
-        }
-      ]
-    }
-  ],
-  "Pubg": [
-    {
-      "profiles": [
-        {
-          "name": "BAD MODDER V PUBG",
-          "projects": "111",
-          "photo": "https://github.com/sahil78698/json/raw/main/lgo.png"
-        },
-        {
-          "name": "KTM MODDER",
-          "projects": "10",
-          "photo": "https://www.apkmart.net/wp-content/uploads/2021/10/elite-mod.png"
-        }
-      ],
-      "projects": [
-        {
-          "BAD MODDER V PUBG": [
-            {
-              "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVUK4sSIRYXxfQw4xfpc4-z1SaJ-u58WSMEw&usqp=CAU",
-              "title": "MOD NEW",
-              "developer": "BAD MODDER",
-              "upload": "10-01-2001",
-              "filetype": "SOURCE CODE",
-              "filesize": "5.00 MB",
-              "description": "Hii i am bad modder",
-              "download": "https://github.com/sahil78698/json/raw/main/AndroidShell.zip",
-              "bits": "32 Bits"
-            },
-            {
-              "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzpnDuq0jY_rENyjvs46OeqQgr4poXfHuWsQ&usqp=CAU",
-              "title": "FREE FIRE BAD VIP MOD NEW PRO",
-              "developer": "BAD MODDER",
-              "upload": "10-01-2001",
-              "filetype": "SOURCE CODE",
-              "filesize": "5.00 MB",
-              "description": "Hii i am bad modder",
-              "download": "Available on 10-01-2001",
-              "bits": "32 Bits"
-            }
+
           ],
-          "KTM MODDER": [
+
+          "B R M O D S": [
+
             {
-              "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-5AqSyHIxUuIo8mFK1eBrXBTyxFVhkx4IXw&usqp=CAU",
-              "title": "llllllggfcc",
-              "developer": "KTM MODDER",
-              "upload": "10-01-2001",
+
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/BR1.png",
+
+              "title": "B R M O D S VERSION 1",
+
+              "developer": "B R M O D S",
+
+              "upload": "21-03-2022",
+
               "filetype": "SOURCE CODE",
-              "filesize": "5.00 MB",
-              "description": "Hii i am KTM modder",
-              "download": "",
-              "bits": "32 Bits"
+
+              "filesize": "6.60 MB",
+
+              "description": "",
+
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/BR%20MODS%20%5BBAD%20SRC_1.1%5D.zip",
+
+              "bits": "32 Bit"
+
+            },
+
+            {
+
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/BR2.png",
+
+              "title": "B R M O D S VERSION 2",
+
+              "developer": "B R M O D S",
+
+              "upload": "21-03-2022",
+
+              "filetype": "SOURCE CODE",
+
+              "filesize": "6.60 MB",
+
+              "description": "",
+
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/BR%20MODS%20%5BBAD%20SRC_1.2%5D.zip",
+
+              "bits": "32 Bit"
+
             }
+
           ]
+
         }
+
       ],
+
       "banners": [
+
         {
-          "url": "https://github.com/sahil78698/json/raw/main/IMG-20220303-WA0002.jpg"
+
+          "url": "https://github.com/sahil78698/json/raw/main/Banners/IMG-20220321-WA0006.jpg",
+
+          "for": "GRINGO XP"
+
         },
+
         {
-          "url": "https://raw.githubusercontent.com/sahil78698/freefire/main/back.jpg"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sahil78698/freefire/main/code.jpeg"
+
+          "url": "https://github.com/sahil78698/json/raw/main/Banners/IMG-20220321-WA0007.jpg"
+
         }
+
       ]
+
     }
+
   ],
-  "Bgmi": [
-    {
-      "profiles": [
-        {
-          "name": "BAD MODDER",
-          "projects": "111",
-          "photo": "https://github.com/sahil78698/json/raw/main/lgo.png"
-        },
-        {
-          "name": "KTM MODDER",
-          "projects": "10",
-          "photo": "https://www.apkmart.net/wp-content/uploads/2021/10/elite-mod.png"
-        }
-      ],
-      "projects": [
-        {
-          "BAD MODDER": [
-            {
-              "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNhczwxwAjV7XKaSB6xCR2OtUMP6sD_j64cA&usqp=CAU",
-              "title": "MOD NEW",
-              "developer": "BAD MODDER",
-              "upload": "10-01-2001",
-              "filetype": "SOURCE CODE",
-              "filesize": "5.00 MB",
-              "description": "Hii i am bad modder",
-              "download": "https://github.com/sahil78698/json/raw/main/AndroidShell.zip",
-              "bits": "32 Bits"
-            },
-            {
-              "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgEGLmr4bolAFDznEY0V5pTLh0GAIr6T-Ckg&usqp=CAU",
-              "title": "FREE FIRE BAD VIP MOD NEW PRO",
-              "developer": "BAD MODDER",
-              "upload": "10-01-2001",
-              "filetype": "SOURCE CODE",
-              "filesize": "5.00 MB",
-              "description": "Hii i am bad modder",
-              "download": "Available on 10-01-2001",
-              "bits": "32 Bits"
-            }
-          ],
-          "KTM MODDER": [
-            {
-              "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1j_cXroe1u5qhQFnEle39lzeYzS0u2t2UPw&usqp=CAU",
-              "title": "llllllggfcc",
-              "developer": "KTM MODDER",
-              "upload": "10-01-2001",
-              "filetype": "SOURCE CODE",
-              "filesize": "5.00 MB",
-              "description": "Hii i am KTM modder",
-              "download": "",
-              "bits": "32 Bits"
-            },
-            {
-              "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFXflEU0n4KT9jc6sWQS8QTjC64cjhcceFug&usqp=CAU",
-              "title": "Hvvbii",
-              "developer": "KTM MODDER",
-              "upload": "10-01-2001",
-              "filetype": "SOURCE CODE",
-              "filesize": "5.00 MB",
-              "description": "Hii i am KTM modder",
-              "download": "",
-              "bits": "32 Bits"
-            },
-            {
-              "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRopMnD2H9yoPvQIPpr6HZWSiJr9FBt4KXFTg&usqp=CAU",
-              "title": "Hvvbiimmm",
-              "developer": "KTM MODDER",
-              "upload": "10-01-2001",
-              "filetype": "SOURCE CODE",
-              "filesize": "5.00 MB",
-              "description": "Hii i am KTM modder",
-              "download": "",
-              "bits": "32 Bits"
-            }
-          ]
-        }
-      ],
-      "banners": [
-        {
-          "url": "https://github.com/sahil78698/json/raw/main/IMG-20220303-WA0002.jpg"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sahil78698/freefire/main/back.jpg"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sahil78698/freefire/main/code.jpeg"
-        }
-      ]
-    }
-  ],
-  "AmongUs": [
-    {
-      "profiles": [
-        {
-          "name": "BAD MODDER",
-          "projects": "111",
-          "photo": "https://github.com/sahil78698/json/raw/main/lgo.png"
-        },
-        {
-          "name": "KTM MODDER",
-          "projects": "10",
-          "photo": "https://www.apkmart.net/wp-content/uploads/2021/10/elite-mod.png"
-        }
-      ],
-      "projects": [
-        {
-          "BAD MODDER": [
-            {
-              "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPPuRJ71hEbk5Es-q5K70WM-LF4_coBpOesQ&usqp=CAU",
-              "title": "MOD NEW",
-              "developer": "BAD MODDER",
-              "upload": "10-01-2001",
-              "filetype": "SOURCE CODE",
-              "filesize": "5.00 MB",
-              "description": "Hii i am bad modder",
-              "download": "https://github.com/sahil78698/json/raw/main/AndroidShell.zip",
-              "bits": "32 Bits"
-            },
-            {
-              "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOLqTZXtdotuOK57dfyp6U0KoZK6M-tp2cVQ&usqp=CAU",
-              "title": "FREE FIRE BAD VIP MOD NEW PRO",
-              "developer": "BAD MODDER",
-              "upload": "10-01-2001",
-              "filetype": "SOURCE CODE",
-              "filesize": "5.00 MB",
-              "description": "Hii i am bad modder",
-              "download": "Available on 10-01-2001",
-              "bits": "32 Bits"
-            }
-          ],
-          "KTM MODDER": [
-            {
-              "photo": "https://raw.githubusercontent.com/sahil78698/freefire/main/back.jpg",
-              "title": "llllllggfcc",
-              "developer": "KTM MODDER",
-              "upload": "10-01-2001",
-              "filetype": "SOURCE CODE",
-              "filesize": "5.00 MB",
-              "description": "Hii i am KTM modder",
-              "download": "",
-              "bits": "32 Bits"
-            },
-            {
-              "photo": "https://raw.githubusercontent.com/sahil78698/freefire/main/code.jpeg",
-              "title": "Hvvbii",
-              "developer": "KTM MODDER",
-              "upload": "10-01-2001",
-              "filetype": "SOURCE CODE",
-              "filesize": "5.00 MB",
-              "description": "Hii i am KTM modder",
-              "download": "",
-              "bits": "32 Bits"
-            }
-          ]
-        }
-      ],
-      "banners": [
-        {
-          "url": "https://github.com/sahil78698/json/raw/main/IMG-20220303-WA0002.jpg"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sahil78698/freefire/main/back.jpg"
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sahil78698/freefire/main/code.jpeg"
-        }
-      ]
-    }
-  ],
+
   "app-info": [
+
     {
+
       "version": "1.0",
-      "update-url": "https://github.com/sahil78698/json/raw/main/Bad%20Source_1.0.apk",
+
+      "update-url": "https://youtube.com/channel/UCk6RO6YBTbIlnuR2mHo79Jw",
+
       "youtube": "https://youtube.com/channel/UCk6RO6YBTbIlnuR2mHo79Jw",
+
       "telegram": "https://t.me/BAD_SRC_OFFICIAL",
+
       "support": "https://t.me/BAD_MODDER",
+
       "share": "https://t.me/BAD_MODDER",
-      "aide32": "https://t.me/BAD_MODDER",
-      "aide64": "https://t.me/BAD_MODDER",
-      "ndk32": "https://t.me/BAD_MODDER",
-      "ndk64": "https://t.me/BAD_MODDER",
+
+      "aide32": "https://apkadmin.com/wpgnpww8qdf1/AIDE_CMODs_32.apk.html",
+
+      "aide64": "https://apkadmin.com/wpgnpww8qdf1/AIDE_CMODs_32.apk.html",
+
+      "ndk32": "https://apkadmin.com/s8wvlvz14m1m/AIDE_NDK_Support_32.apk.html",
+
+      "ndk64": "https://apkadmin.com/s8wvlvz14m1m/AIDE_NDK_Support_32.apk.html",
+
       "game_id": "4639465",
+
       "rewarded_id": "Rewarded_Android",
+
       "test": "true",
+
       "maintenance": "false"
+
     }
+
   ]
+
 }
