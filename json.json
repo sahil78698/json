@@ -234,7 +234,7 @@
 
       "test": "true",
 
-      "maintenance": "false"
+      "maintenance": "true"
 
     }
 
