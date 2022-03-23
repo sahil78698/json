@@ -1,0 +1,247 @@
+{
+
+  "FreeFire": [
+
+    {
+
+      "profiles": [
+
+        {
+
+          "name": "AKTHAR GAMING",
+
+          "projects": "1",
+
+          "photo": "https://github.com/sahil78698/json/raw/main/profiles/iconx.png"
+
+        },
+
+        {
+
+          "name": "LEGACY MODS",
+
+          "projects": "1",
+
+          "photo": "https://github.com/sahil78698/json/raw/main/profiles/icovvn.png"
+
+        },
+
+        {
+
+          "name": "GRINGO XP",
+
+          "projects": "1",
+
+          "photo": "https://github.com/sahil78698/json/raw/main/profiles/icon.png"
+
+        },
+
+        {
+
+          "name": "B R M O D S",
+
+          "projects": "2",
+
+          "photo": "https://github.com/sahil78698/json/raw/main/profiles/BADSRC.png"
+
+        }
+
+      ],
+
+      "projects": [
+
+        {
+
+          "AKTHAR GAMING": [
+
+            {
+
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/UNITED.png",
+
+              "title": "UNITED MOD",
+
+              "developer": "AKTHAR GAMING",
+
+              "upload": "21-03-2022",
+
+              "filetype": "SOURCE CODE",
+
+              "filesize": "6.36 MB",
+
+              "description": "",
+
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/United%20Mods%20%5BSRC%5D%20By%20Bad%20Modder.zip",
+
+              "bits": "32 Bit"
+
+            }
+
+          ],
+
+          "LEGACY MODS": [
+
+            {
+
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/LEGACY1.png",
+
+              "title": "LEGACY LAYOUT",
+
+              "developer": "LEGACY MODS",
+
+              "upload": "21-03-2022",
+
+              "filetype": "SOURCE CODE",
+
+              "filesize": "8.22 MB",
+
+              "description": "",
+
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/LEGACY%20TEAM%20%5BBAD%20SRC_1.60%5D.zip",
+
+              "bits": "32 Bit"
+
+            }
+
+          ],
+
+          "GRINGO XP": [
+
+            {
+
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/GRINGO.png",
+
+              "title": "GRINGO XP LAYOUT",
+
+              "developer": "GRINGO XP",
+
+              "upload": "21-03-2022",
+
+              "filetype": "SOURCE CODE",
+
+              "filesize": "7.24 MB",
+
+              "description": "",
+
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/GRINGO-XP%20%5BSRC_1%5D%20BY%20BAD%20MODDER.zip",
+
+              "bits": "32 Bit"
+
+            }
+
+          ],
+
+          "B R M O D S": [
+
+            {
+
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/BR1.png",
+
+              "title": "B R M O D S VERSION 1",
+
+              "developer": "B R M O D S",
+
+              "upload": "21-03-2022",
+
+              "filetype": "SOURCE CODE",
+
+              "filesize": "6.60 MB",
+
+              "description": "",
+
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/BR%20MODS%20%5BBAD%20SRC_1.1%5D.zip",
+
+              "bits": "32 Bit"
+
+            },
+
+            {
+
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/BR2.png",
+
+              "title": "B R M O D S VERSION 2",
+
+              "developer": "B R M O D S",
+
+              "upload": "21-03-2022",
+
+              "filetype": "SOURCE CODE",
+
+              "filesize": "6.60 MB",
+
+              "description": "",
+
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/BR%20MODS%20%5BBAD%20SRC_1.2%5D.zip",
+
+              "bits": "32 Bit"
+
+            }
+
+          ]
+
+        }
+
+      ],
+
+      "banners": [
+
+        {
+
+          "url": "https://github.com/sahil78698/json/raw/main/Banners/IMG-20220321-WA0006.jpg",
+
+          "for": "GRINGO XP"
+
+        },
+
+        {
+
+          "url": "https://github.com/sahil78698/json/raw/main/Banners/IMG-20220321-WA0007.jpg"
+
+        }
+
+      ]
+
+    }
+
+  ],
+
+  "app-info": [
+
+    {
+
+      "version": "1.0",
+
+      "downloader-version":"2.0",
+
+      "update-url": "https://youtube.com/channel/UCk6RO6YBTbIlnuR2mHo79Jw",
+
+      "badsourcedownloader":"https://youtube.com/channel/UCk6RO6YBTbIlnuR2mHo79Jw",
+
+      "youtube": "https://youtube.com/channel/UCk6RO6YBTbIlnuR2mHo79Jw",
+
+      "telegram": "https://t.me/BAD_SRC_OFFICIAL",
+
+      "support": "https://t.me/BAD_MODDER",
+
+      "share": "https://t.me/BAD_MODDER",
+
+      "aide32": "https://apkadmin.com/wpgnpww8qdf1/AIDE_CMODs_32.apk.html",
+
+      "aide64": "https://apkadmin.com/wpgnpww8qdf1/AIDE_CMODs_32.apk.html",
+
+      "ndk32": "https://apkadmin.com/s8wvlvz14m1m/AIDE_NDK_Support_32.apk.html",
+
+      "ndk64": "https://apkadmin.com/s8wvlvz14m1m/AIDE_NDK_Support_32.apk.html",
+
+      "game_id": "4639465",
+
+      "rewarded_id": "Rewarded_Android",
+
+      "test": "true",
+
+      "maintenance": "false"
+
+    }
+
+  ]
+
+}
