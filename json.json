@@ -1,249 +1,303 @@
 {
-
   "FreeFire": [
-
     {
-
       "profiles": [
-
         {
-
           "name": "AKTHAR GAMING",
-
           "projects": "1",
-
           "photo": "https://github.com/sahil78698/json/raw/main/profiles/iconx.png"
-
         },
-
         {
-
           "name": "LEGACY MODS",
-
           "projects": "1",
-
           "photo": "https://github.com/sahil78698/json/raw/main/profiles/icovvn.png"
-
         },
-
         {
-
           "name": "GRINGO XP",
-
           "projects": "1",
-
           "photo": "https://github.com/sahil78698/json/raw/main/profiles/icon.png"
-
         },
-
         {
-
           "name": "B R M O D S",
-
           "projects": "2",
-
           "photo": "https://github.com/sahil78698/json/raw/main/profiles/BADSRC.png"
-
-        }
-
-      ],
-
-      "projects": [
-
-        {
-
-          "AKTHAR GAMING": [
-
-            {
-
-              "photo": "https://github.com/sahil78698/json/raw/main/Projects/UNITED.png",
-
-              "title": "UNITED MOD",
-
-              "developer": "AKTHAR GAMING",
-
-              "upload": "21-03-2022",
-
-              "filetype": "SOURCE CODE",
-
-              "filesize": "6.36 MB",
-
-              "description": "",
-
-              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/United%20Mods%20%5BSRC%5D%20By%20Bad%20Modder.zip",
-
-              "bits": "32 Bit"
-
-            }
-
-          ],
-
-          "LEGACY MODS": [
-
-            {
-
-              "photo": "https://github.com/sahil78698/json/raw/main/Projects/LEGACY1.png",
-
-              "title": "LEGACY LAYOUT",
-
-              "developer": "LEGACY MODS",
-
-              "upload": "21-03-2022",
-
-              "filetype": "SOURCE CODE",
-
-              "filesize": "8.22 MB",
-
-              "description": "",
-
-              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/LEGACY%20TEAM%20%5BBAD%20SRC_1.60%5D.zip",
-
-              "bits": "32 Bit"
-
-            }
-
-          ],
-
-          "GRINGO XP": [
-
-            {
-
-              "photo": "https://github.com/sahil78698/json/raw/main/Projects/GRINGO.png",
-
-              "title": "GRINGO XP LAYOUT",
-
-              "developer": "GRINGO XP",
-
-              "upload": "21-03-2022",
-
-              "filetype": "SOURCE CODE",
-
-              "filesize": "7.24 MB",
-
-              "description": "",
-
-              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/GRINGO-XP%20%5BSRC_1%5D%20BY%20BAD%20MODDER.zip",
-
-              "bits": "32 Bit"
-
-            }
-
-          ],
-
-          "B R M O D S": [
-
-            {
-
-              "photo": "https://github.com/sahil78698/json/raw/main/Projects/BR1.png",
-
-              "title": "B R M O D S VERSION 1",
-
-              "developer": "B R M O D S",
-
-              "upload": "21-03-2022",
-
-              "filetype": "SOURCE CODE",
-
-              "filesize": "6.60 MB",
-
-              "description": "",
-
-              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/BR%20MODS%20%5BBAD%20SRC_1.1%5D.zip",
-
-              "bits": "32 Bit"
-
-            },
-
-            {
-
-              "photo": "https://github.com/sahil78698/json/raw/main/Projects/BR2.png",
-
-              "title": "B R M O D S VERSION 2",
-
-              "developer": "B R M O D S",
-
-              "upload": "21-03-2022",
-
-              "filetype": "SOURCE CODE",
-
-              "filesize": "6.60 MB",
-
-              "description": "",
-
-              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/BR%20MODS%20%5BBAD%20SRC_1.2%5D.zip",
-
-              "bits": "32 Bit"
-
-            }
-
-          ]
-
-        }
-
-      ],
-
-      "banners": [
-
-        {
-
-          "url": "https://github.com/sahil78698/json/raw/main/Banners/IMG-20220321-WA0006.jpg",
-
-          "for": "GRINGO XP"
-
         },
-
         {
-
-          "url": "https://github.com/sahil78698/json/raw/main/Banners/IMG-20220321-WA0007.jpg"
-
+          "name": "CUBAN VIP",
+          "projects": "3",
+          "photo": "https://github.com/sahil78698/json/raw/main/profiles/CUBAN.png"
+        },
+        {
+          "name": "ELITE VIP",
+          "projects": "3",
+          "photo": "https://github.com/sahil78698/json/raw/main/profiles/ELITE%20VIP.png"
+        },
+        {
+          "name": "GHINHARA RYUUKA",
+          "projects": "3",
+          "photo": "https://github.com/sahil78698/json/raw/main/profiles/GHINHARA%20RYUUKA.png"
+        },
+        {
+          "name": "JLAND",
+          "projects": "2",
+          "photo": "https://github.com/sahil78698/json/raw/main/profiles/JLAND.png"
+        },
+        {
+          "name": "PLATINMODS.com",
+          "projects": "2",
+          "photo": "https://github.com/sahil78698/json/raw/main/profiles/platinmods.com.png"
         }
-
+      ],
+      "projects": [
+        {
+          "AKTHAR GAMING": [
+            {
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/UNITED.png",
+              "title": "UNITED MOD",
+              "developer": "AKTHAR GAMING",
+              "upload": "21-03-2022",
+              "filetype": "SOURCE CODE",
+              "filesize": "6.36 MB",
+              "description": "",
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/United%20Mods%20%5BSRC%5D%20By%20Bad%20Modder.zip",
+              "bits": "32 Bit"
+            }
+          ],
+          "LEGACY MODS": [
+            {
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/LEGACY1.png",
+              "title": "LEGACY LAYOUT",
+              "developer": "LEGACY MODS",
+              "upload": "21-03-2022",
+              "filetype": "SOURCE CODE",
+              "filesize": "8.22 MB",
+              "description": "",
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/LEGACY%20TEAM%20%5BBAD%20SRC_1.60%5D.zip",
+              "bits": "32 Bit"
+            }
+          ],
+          "GRINGO XP": [
+            {
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/GRINGO.png",
+              "title": "GRINGO XP LAYOUT",
+              "developer": "GRINGO XP",
+              "upload": "21-03-2022",
+              "filetype": "SOURCE CODE",
+              "filesize": "7.24 MB",
+              "description": "",
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/GRINGO-XP%20%5BSRC_1%5D%20BY%20BAD%20MODDER.zip",
+              "bits": "32 Bit"
+            }
+          ],
+          "B R M O D S": [
+            {
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/BR1.png",
+              "title": "B R M O D S VERSION 1",
+              "developer": "B R M O D S",
+              "upload": "21-03-2022",
+              "filetype": "SOURCE CODE",
+              "filesize": "6.60 MB",
+              "description": "",
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/BR%20MODS%20%5BBAD%20SRC_1.1%5D.zip",
+              "bits": "32 Bit"
+            },
+            {
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/BR2.png",
+              "title": "B R M O D S VERSION 2",
+              "developer": "B R M O D S",
+              "upload": "21-03-2022",
+              "filetype": "SOURCE CODE",
+              "filesize": "6.60 MB",
+              "description": "",
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/BR%20MODS%20%5BBAD%20SRC_1.2%5D.zip",
+              "bits": "32 Bit"
+            }
+          ],
+          "GHINHARA RYUUKA": [
+            {
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/1648118390081.png",
+              "title": "GHINHARA RYUUKA SRC_1",
+              "developer": "GHINHARA RYUUKA",
+              "upload": "24-03-2022",
+              "filetype": "SOURCE CODE",
+              "filesize": "5.85 MB",
+              "description": "",
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/Ghinhara%20Ryuuka%20%5BBAD%20SRC_1%5D.zip",
+              "bits": "32 Bit"
+            },
+            {
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/1648118364229.png",
+              "title": "GHINHARA RYUUKA SRC_2",
+              "developer": "GHINHARA RYUUKA",
+              "upload": "24-03-2022",
+              "filetype": "SOURCE CODE",
+              "filesize": "4.76 MB",
+              "description": "",
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/Ghinhara%20Ryuuka%20%5BBAD%20SRC_2%5D.zip",
+              "bits": "32 Bit"
+            },
+            {
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/Picsart_22-03-24_16-07-34-410.jpg",
+              "title": "GHINHARA RYUUKA SRC_3",
+              "developer": "GHINHARA RYUUKA",
+              "upload": "24-03-2022",
+              "filetype": "SOURCE CODE",
+              "filesize": "6.63 MB",
+              "description": "",
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/Ghinhara%20Ryuuka%20%5BBAD%20SRC_3%5D.zip",
+              "bits": "32 Bit"
+            }
+          ],
+          "PLATINMODS.com": [
+            {
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/1648118617495.png",
+              "title": "PLATINMODS.com SRC_1",
+              "developer": "PLATINMODS.com",
+              "upload": "24-03-2022",
+              "filetype": "SOURCE CODE",
+              "filesize": "6.64 MB",
+              "description": "",
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/Platin%20Mod%20SRC-1.zip",
+              "bits": "32 Bit"
+            },
+            {
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/1648118630847.png",
+              "title": "PLATINMODS.com SRC_2",
+              "developer": "PLATINMODS.com",
+              "upload": "24-03-2022",
+              "filetype": "SOURCE CODE",
+              "filesize": "6.65 MB",
+              "description": "",
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/Platin%20Mod%20SRC-2.zip",
+              "bits": "32 Bit"
+            }
+          ],
+          "JLAND": [
+            {
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/1648118653927.png",
+              "title": "JLAND SRC V 1.50",
+              "developer": "JLAND",
+              "upload": "24-03-2022",
+              "filetype": "SOURCE CODE",
+              "filesize": "7.38 MB",
+              "description": "",
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/JLAND%20LAYOUT%20-1.50.zip",
+              "bits": "32 Bit"
+            },
+            {
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/1648118679333.png",
+              "title": "JLAND SRC V 1.47",
+              "developer": "JLAND",
+              "upload": "24-03-2022",
+              "filetype": "SOURCE CODE",
+              "filesize": "7.37 MB",
+              "description": "",
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/JLAND%20LAYOUT%20-1.47.zip",
+              "bits": "32 Bit"
+            }
+          ],
+          "ELITE VIP": [
+            {
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/1648118763249.png",
+              "title": "ELITE MOD SRC_1",
+              "developer": "ELITE VIP",
+              "upload": "24-03-2022",
+              "filetype": "SOURCE CODE",
+              "filesize": "6.64 MB",
+              "description": "",
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/Elite%20Vip%20Layout%201.2.zip",
+              "bits": "32 Bit"
+            },
+            {
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/1648118782748.png",
+              "title": "ELITE MOD SRC V 1.8",
+              "developer": "ELITE VIP",
+              "upload": "24-03-2022",
+              "filetype": "SOURCE CODE",
+              "filesize": "6.49 MB",
+              "description": "",
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/Elite%20Vip%201.8.zip",
+              "bits": "32 Bit"
+            },
+            {
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/1648118699251.png",
+              "title": "KTM MODDER F**K",
+              "developer": "ELITE VIP",
+              "upload": "24-03-2022",
+              "filetype": "SOURCE CODE",
+              "filesize": "6.65 MB",
+              "description": "",
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/KTM%20MODDER%20Layout.zip",
+              "bits": "32 Bit"
+            }
+          ],
+          "CUBAN VIP": [
+            {
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/1648118799253.png",
+              "title": "CUBAN VIP MOD SRC_1",
+              "developer": "CUBAN VIP",
+              "upload": "24-03-2022",
+              "filetype": "SOURCE CODE",
+              "filesize": "7.86 MB",
+              "description": "",
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/CUBAN%20VIP%20MOD%20%5BBAD%20SRC_3%5D.zip",
+              "bits": "32 Bit"
+            },
+            {
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/1648118814676.png",
+              "title": "CUBAN PREMIUM MOD SRC_2",
+              "developer": "CUBAN VIP",
+              "upload": "24-03-2022",
+              "filetype": "SOURCE CODE",
+              "filesize": "6.93 MB",
+              "description": "",
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/CUBAN%20PREMIUM%20%5BBAD%20SRC_2%5D.zip",
+              "bits": "32 Bit"
+            },
+            {
+              "photo": "https://github.com/sahil78698/json/raw/main/Projects/1648118834147.png",
+              "title": "CUBAN PLUS MOD SRC_3",
+              "developer": "CUBAN VIP",
+              "upload": "24-03-2022",
+              "filetype": "SOURCE CODE",
+              "filesize": "8.15 MB",
+              "description": "",
+              "download": "https://github.com/sahil78698/json/raw/main/Project%20Files/CUBAN%20PLUS%20%5BBAD%20SRC_1%5D.zip",
+              "bits": "32 Bit"
+            }
+          ]
+        }
+      ],
+      "banners": [
+        {
+          "url": "https://github.com/sahil78698/json/raw/main/Banners/IMG-20220321-WA0006.jpg",
+          "for": "GRINGO XP"
+        },
+        {
+          "url": "https://github.com/sahil78698/json/raw/main/Banners/IMG-20220321-WA0007.jpg"
+        }
       ]
-
     }
-
   ],
-
   "app-info": [
-
     {
-
-      "version": "1.0",
-
-      "downloader-version":"1.0",
-
-      "update-url": "https://youtube.com/channel/UCk6RO6YBTbIlnuR2mHo79Jw",
-
-      "badsourcedownloader":"https://youtube.com/channel/UCk6RO6YBTbIlnuR2mHo79Jw", 
-
-      "badsourcedownloader11":"https://youtube.com/channel/UCk6RO6YBTbIlnuR2mHo79Jw",
-
+      "version": "2.0",
+      "downloader-version": "1.0",
+      "update-url": "https://play.google.com/store/apps/details?id=com.badmodder.badsource",
+      "badsourcedownloader": "https://apkadmin.com/mp6kikrwp8lo/Bad_Source_Downloader_V1.1.apk.html",
+      "badsourcedownloader11": "https://apkadmin.com/mp6kikrwp8lo/Bad_Source_Downloader_V1.1.apk.html",
       "youtube": "https://youtube.com/channel/UCk6RO6YBTbIlnuR2mHo79Jw",
-
       "telegram": "https://t.me/BAD_SRC_OFFICIAL",
-
       "support": "https://t.me/BAD_MODDER",
-
-      "share": "https://t.me/BAD_MODDER",
-
+      "share": "https://play.google.com/store/apps/details?id=com.badmodder.badsource",
       "aide32": "https://apkadmin.com/wpgnpww8qdf1/AIDE_CMODs_32.apk.html",
-
       "aide64": "https://apkadmin.com/wpgnpww8qdf1/AIDE_CMODs_32.apk.html",
-
       "ndk32": "https://apkadmin.com/s8wvlvz14m1m/AIDE_NDK_Support_32.apk.html",
-
       "ndk64": "https://apkadmin.com/s8wvlvz14m1m/AIDE_NDK_Support_32.apk.html",
-
       "game_id": "4639465",
-
       "rewarded_id": "Rewarded_Android",
-
       "test": "false",
-
       "maintenance": "false"
-
     }
-
   ]
-
 }
