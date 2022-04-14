@@ -300,7 +300,7 @@
       "ndk64": "https://apkadmin.com/s8wvlvz14m1m/AIDE_NDK_Support_32.apk.html",
       "game_id": "4639465",
       "rewarded_id": "Rewarded_Android",
-      "test": "false",
+      "test": "true",
       "maintenance": "false"
     }
   ]
